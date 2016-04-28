@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Aleksey Razdolgin](https://up.htmlacademy.ru/htmlcss/13/user/125242).
-* Наставник: `Неизвестно`.
+* Наставник: `Я`.
 
 ---
 
